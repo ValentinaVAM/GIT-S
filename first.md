@@ -2,9 +2,9 @@
 
 ## Menu
 
-1. Potions
-6. Chips
-2. Code Block
+1. [Potions](#potions)
+6. [Chips](#chips)
+2. [Code Block](#code-block)
 
 *Mysterious*
 
@@ -26,3 +26,19 @@
 
 ---
 [Ссылка на сайт почты] (https://mail.ru)
+
+### Code Block
+
+```
+while (index<size) do
+
+    if (numbers[index]> max then
+        max=numbers[index]
+    index=index +1  
+print(max)
+ ``` 
+
+ ---
+ >HOMINEM AMPLIUS OCULIS, QUAM AURIBUS CREDUNT
+ >
+ >*Seneca*   
